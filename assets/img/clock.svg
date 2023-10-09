@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.302" height="54.86" viewBox="0 0 53.302 54.86">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_157" data-name="Rectangle 157" width="53.302" height="54.86" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Group_157" data-name="Group 157" transform="translate(0 0)">
+    <g id="Group_157-2" data-name="Group 157" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="17.202" cy="17.202" r="17.202" transform="translate(18.218 19.776)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_41" data-name="Line 41" y2="13.325" transform="translate(35.662 23.653)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_42" data-name="Line 42" x1="8.48" y1="5.169" transform="translate(27.183 31.81)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3251" data-name="Path 3251" d="M18.593,53.217H1V11.868H9.723l32.789.081H48.73V24.063" transform="translate(-0.32 -3.802)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3252" data-name="Path 3252" d="M15.746,1h0A1.62,1.62,0,0,1,17.3,2.678V8.386H14.189V2.742A1.663,1.663,0,0,1,15.746,1Z" transform="translate(-4.546 -0.32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3253" data-name="Path 3253" d="M56.774,1h0a1.62,1.62,0,0,1,1.557,1.678V8.386H55.217V2.742A1.663,1.663,0,0,1,56.774,1Z" transform="translate(-17.69 -0.32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="6.894" height="6.894" transform="translate(5.863 12.341)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="6.894" height="6.894" transform="translate(5.863 24.486)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="6.894" height="6.894" transform="translate(17.651 12.341)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

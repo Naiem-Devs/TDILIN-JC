@@ -1,0 +1,940 @@
+/* Big screen :1200px. */
+@media (min-width: 1430px) and (max-width: 1600px) {
+    .menu-area ul {
+        gap: 30px;
+        margin-right: -330px;
+    }
+    .ht_info{
+        width: max-content;
+    }
+    .team_content a.thm_btn{
+    right: 0;
+}
+.menu-area .mega_menu ul li a{
+    max-width: 460px;
+}
+}
+
+
+@media (min-width: 1200px) and (max-width: 1430px) {
+    .menu-area .mega_menu ul li a{
+    max-width: 380px;
+}
+    .ht_info{
+        width: max-content;
+    }
+    .menu-area ul {
+        gap: 30px;
+        margin-right: -330px;
+    }
+    .menu-area nav ul li a {
+        font-size: 16px;
+    }
+    
+    .ht_info {
+        margin-left: -40px;
+        font-size: 13px;
+    }
+    
+    .top_nav ul {
+        gap: 15px;
+    }
+    
+    .top_nav ul li a {
+        font-size: 11px;
+    }
+    
+    .hero_slider {
+        height: 552px;
+    }
+    
+    .hs_text {
+        margin-bottom: 150px;
+    }
+    
+    .Useful_blk ul li {
+        font-size: 15px;
+    }
+    
+    .VC_text h1 {
+        margin-bottom: 150px;
+    }
+    
+    .ts_blk_text {margin-left: -250px;}
+    
+
+    
+    .parson_blk {
+        font-size: 14px;
+    }
+    .Alumni_text {
+        padding: 70px 0;
+    }
+    .swiper-buttons {
+        max-width: 90%;
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-area .mega_menu ul li a{
+        max-width: 329px;
+        font-size: 14px;
+    }
+    .ht_info {
+        display: none;
+    }
+    
+    .top_nav {
+        width: max-content;
+        margin-left: -166px;
+    }
+    .footer_nav {
+        padding-left: 50px;
+    }
+    .footer_main_nav ul li {
+        flex: 0 0 50%;
+    }
+    
+    .footer_nav ul li {
+        font-size: 15px;
+    }
+    
+    .footer_left {
+        font-size: 15px;
+    }
+    
+    .footer_left p {
+        font-size: 15px;
+    }
+    .logo-area {
+        width: 210px;
+        overflow: hidden;
+    }
+    
+    .menu-area ul {
+        gap: 20px !important;
+        width: max-content;
+    }
+    
+    .menu-area nav ul li a {
+        font-size: 15px;
+    }
+    
+    .menu-area {
+        margin-left: 50px;
+    }
+    
+    .hero_slider {
+        height: 500px;
+    }
+    
+    .hs_text a {
+        max-width: 400px;
+    }
+    
+    .hs_text {
+        margin-bottom: 185px;
+    }
+    
+    .Hs_content {
+        flex: 0 0 60%;
+    }
+    
+    .hs_icon {
+        flex: 0 0 35%;
+    }
+    
+    .update_tab ul.nav {
+        gap: 0 40px;
+    }
+    
+    .update_tab ul li button {
+        font-size: 15px;
+    }
+    
+    .update_blk {
+        margin-right: 30px;
+    }
+    
+    .Useful_blk ul li {
+        font-size: 14px;
+    }
+    
+    .Useful_blk {
+        margin-left: -20px;
+    }
+    
+    .svc_top ul li h6 {
+        font-size: 15px;
+    }
+    
+    .video_content video {
+        transform: translateY(-152px);
+    }
+    
+    .video_wrp {
+        height: 393px;
+    }
+    
+    .VC_text h1 {
+        margin-bottom: 28px;
+    }
+    
+    .VC_text {
+        margin-top: -370px;
+    }
+    
+    .VC_text .circle-text {
+        left: 40px;
+        margin-top: -50px;
+        z-index: 99;
+    }
+    
+    .VC_text img {
+        scale: .7;
+    }
+    
+    .about_blk p {
+        font-size: 14px;
+    }
+    .timeline_slider_blk>i {
+        max-width: 551px;
+    }
+    
+    .ts_blk_text h3 {
+        font-size: 22px;
+        margin: 15px 0;
+    }
+    
+    .ts_blk_text p {
+        font-size: 14px;
+    }
+    
+    .ts_blk_text {
+        margin-left: 0;
+        padding: 25px 30px;
+        max-width: 550px;
+    }
+    
+    .timeline_slider_blk {
+        flex-direction: column;
+    }
+    
+    .timeline_slider {
+        height: auto;
+        padding-bottom: 50px;
+    }
+    
+    .Alumni_text p {
+        font-size: 15px;
+    }
+    
+    .Alumni_text {
+        padding: 40px 0;
+    }
+    
+    .number_content ul li {
+        max-width: 200px;
+    }
+    
+    .number_content ul li span {
+        font-size: 40px;
+    }
+    
+    .number_content ul li p {
+        font-size: 15px;
+    }
+    
+    .reg_text h2 {
+        font-size: 30px;
+    }
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .ht_info {
+        /* display: none; */
+        font-size: 13px;
+        margin-left: 20px;
+    }
+    
+    .top_nav ul {
+        display: none;
+    }
+    
+    .top_nav ul.social {
+        display: flex;
+    }
+    .logo-area {
+        width: 200px;
+        overflow: hidden;
+        scale: .8;
+    }
+    
+    .header-area>.container-fluid {
+        padding: 5px 20px;
+    }
+
+    .hero_slider {
+        height: 500px;
+    }
+    
+    .hs_text a {
+    }
+    
+    .hs_text {
+        margin-bottom: 105px;
+        width: 100%;
+    }
+
+.hs_text img {
+    max-width: 100%;
+}
+    
+    .Hs_content {
+        flex: 0 0 70%;
+    }
+
+.Hs_content_blk {
+    padding-right: 0;
+}
+
+.Hs_content .tab-content>.active {
+    margin-left: 0;
+}
+
+.Hs_content_left {
+    width: 135px;
+}
+    
+    .hs_icon {
+        flex: 0 0 30%;
+    }
+    
+    .update_tab ul.nav {
+        gap: 0 40px;
+    }
+    
+    .update_tab ul li button {
+        font-size: 15px;
+    }
+
+    .Useful_blk ul li {
+        font-size: 14px;
+    }
+    
+    .Useful_blk {
+    margin: unset;
+    margin-top: 50px;
+    }
+
+.Useful_blk h1,.update_blk h1 {
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+    
+    .svc_top ul li h6 {
+        font-size: 15px;
+    }
+    
+    .video_content video {
+        transform: translateY(-15px);
+    }
+    
+    .video_wrp {
+        height: 393px;
+    }
+    
+    .VC_text h1 {
+        margin-bottom: 28px;
+    }
+    
+    .VC_text {
+        margin-top: -332px;
+    }
+    
+    .VC_text .circle-text {
+        left: 40px;
+        margin-top: -50px;
+        z-index: 99;
+    }
+    
+    .VC_text img {
+        scale: .7;
+    }
+    
+    .about_blk p {
+        font-size: 14px;
+    }
+    .timeline_slider_blk>i {
+        max-width: 551px;
+    }
+    
+    .ts_blk_text h3 {
+        font-size: 22px;
+        margin: 15px 0;
+    }
+    
+    .ts_blk_text p {
+        font-size: 14px;
+    }
+    
+    .ts_blk_text {
+        margin-left: 0;
+        padding: 25px 30px;
+        max-width: 550px;
+    }
+    
+    .timeline_slider_blk {
+        flex-direction: column;
+    }
+    
+    .timeline_slider {
+        height: auto;
+        padding-bottom: 50px;
+    }
+    
+    .Alumni_text p {
+        font-size: 15px;
+    }
+    
+    .Alumni_text {
+        padding: 40px 0;
+    }
+    
+    .number_content ul li {
+        max-width: 100%;
+        flex: 0 0 45%;
+    }
+    
+    .number_content ul li span {
+        font-size: 40px;
+    }
+    
+    .number_content ul li p {
+        font-size: 15px;
+    }
+    
+    .reg_text h2 {
+        font-size: 30px;
+    }
+
+    
+    .svc_top ul li {
+        scale: .8;
+    }
+
+    
+    .about-area .row {
+        gap: 20px 0px;
+    }
+    
+    .event_blk p {
+        font-size: 14px;
+    }
+    
+    .event_blk h5 {
+        margin-bottom: 15px;
+    }
+    
+    .timeline_content a {
+        float: unset;
+    }
+    
+    :root {--f45: 35px;}
+    
+    .timeline_content h1 {
+        margin: 20px 0;
+    }
+    
+    .timeline_content {
+        margin-bottom: 35px;
+    }
+    
+    .team_content a.thm_btn {
+        float: unset;
+        margin-bottom: 20px;
+    }
+    
+    .team_content_btns button {
+        height: 50px;
+    }
+    
+    .Alumni_img img {
+        max-width: 400px;
+        margin-inline: auto;
+    }
+    
+    .Alumni_img {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .number_content ul {
+        flex-wrap: wrap;
+        gap: 60px 0;
+        max-width: 500px;
+    }
+    
+    .reg-img i img {
+        max-width: 400px;
+    }
+    
+    .reg-img .circle-text {
+        max-width: 161px;
+        top: 130px;
+        left: -3px;
+    }
+    
+    .reg-img {
+        width: max-content;
+        margin: auto;
+    }
+    
+    .footer_nav {
+        padding: 0;
+        border: none;
+        max-width: 500px;
+        margin-inline: auto;
+    }
+    
+    .footer_left {
+        max-width: 500px;
+        margin-inline: auto;
+        margin-bottom: 50px;
+    }
+    
+    .footer_main_nav ul li {
+        flex: 0 0 50%;
+    }
+    
+    .fb_logo {
+        text-align: center;
+    }
+    
+    .fb_right {
+        text-align: center;
+    }
+    
+    .fb_nav {
+        margin: 25px 0;
+    }
+    
+    .footer_btm {
+        padding: 30px 0;
+    }
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .ht_info {
+        /* display: none; */
+        font-size: 13px;
+        margin-left: 20px;
+    }
+    
+    .top_nav ul {
+        display: none;
+    }
+    
+    .top_nav ul.social {
+        display: flex;
+    }
+    .logo-area {
+        width: 219px;
+        overflow: hidden;
+        scale: .7;
+        margin-left: -39px;
+    }
+    
+    .header-area>.container-fluid {
+        padding: 5px 20px;
+    }
+
+    .hero_slider {
+        height: 625px;
+    }
+    
+    .hs_text a {
+        max-width: 400px;
+    }
+    
+    .hs_text {
+        margin-bottom: 324px;
+        position: absolute;
+        top: 10px;
+        width: 100%;
+        transform: translateX(-50%);
+    }
+
+.hs_text img {
+    max-width: 100%;
+}
+    
+    .Hs_content {
+        flex: unset;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        max-width: 400px;
+    }
+
+.hero_content_wrp {
+    padding: 0;
+    top: auto;
+    bottom: 50px;
+    height: 92%;
+}
+
+.Hs_content .tab-content>.active {
+    margin: auto;
+    width: 95%;
+    height: auto;
+}
+
+.Hs_content_left {
+    width: 135px;
+    display: none;
+}
+
+.Hs_content_blk_btn {
+}
+    
+    .hs_icon {
+        flex: 0 0 19%;
+        display: none;
+    }
+    
+    .update_tab ul.nav {
+        gap: 20px 15px;
+    }
+
+.update_tab ul.nav li {
+    flex: 0  0 45%;
+}
+    
+    .update_tab ul li button {
+        font-size: 15px;
+    }
+    
+    .Useful_blk ul li {
+        font-size: 14px;
+    }
+    
+    .Useful_blk {
+    margin: unset;
+    margin-top: 50px;
+    }
+
+.Useful_blk h1,.update_blk h1 {
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+    
+    .svc_top ul li h6 {
+        font-size: 15px;
+    }
+    
+    .video_content video {
+        transform: translateY(-24px);
+        max-width: 573px;
+        width: 573px;
+    }
+    
+    .video_wrp {
+        height: 225px;
+    }
+    
+    .VC_text h1 {
+        margin-bottom: 150px;
+    }
+    
+    .VC_text {
+        margin-top: -193px;
+    }
+    
+    .VC_text .circle-text {
+        left: 40px;
+        margin-top: -50px;
+        z-index: 99;
+        display: none;
+    }
+    
+    .VC_text img {
+        scale: .7;
+        display: none;
+    }
+    
+    .about_blk p {
+        font-size: 14px;
+    }
+    .timeline_slider_blk>i {
+        max-width: 551px;
+    }
+    
+    .ts_blk_text h3 {
+        font-size: 20px;
+        margin: 25px 0;
+    }
+    
+    .ts_blk_text p {
+        font-size: 14px;
+    }
+    
+    .ts_blk_text {
+        margin-left: 0;
+        padding: 25px 30px;
+        max-width: 550px;
+    }
+    
+    .timeline_slider_blk {
+        flex-direction: column;
+    }
+    
+    .timeline_slider {
+        height: auto;
+        padding-bottom: 50px;
+    }
+    
+    .Alumni_text p {
+        font-size: 15px;
+    }
+    
+    .Alumni_text {
+        padding: 40px 0;
+    }
+    
+    .number_content ul li {
+        max-width: 100%;
+        flex: 0 0 45%;
+    }
+    
+    .number_content ul li span {
+        font-size: 40px;
+    }
+    
+    .number_content ul li p {
+        font-size: 15px;
+    }
+    
+    .reg_text h2 {
+        font-size: 30px;
+    }
+
+    
+    .svc_top ul li {
+        flex: 0 0 90%;
+        padding-top: 20px;
+    }
+
+.svc_top ul li i {
+    width: 100px;
+    margin-inline: auto;
+    display: block;
+    scale: .8;
+    margin-bottom: 15px;
+}
+
+    
+    .about-area .row {
+        gap: 20px 0px;
+    }
+    
+
+    
+    .event_blk p {
+        font-size: 14px;
+    }
+    
+    .event_blk h5 {
+        margin-bottom: 15px;
+    }
+    
+    .timeline_content a {
+        float: unset;
+    }
+    
+    :root {--f45: 28px;}
+    
+    .timeline_content h1 {
+        margin: 20px 0;
+    }
+    
+    .timeline_content {
+        margin-bottom: 35px;
+    }
+    
+    .team_content a.thm_btn {
+        float: unset;
+        margin-bottom: 20px;
+    }
+    
+    .team_content_btns button {
+        height: 50px;
+        font-size: 12px;
+        width: 170px;
+    }
+    
+    .Alumni_img img {
+        max-width: 260px;
+        margin-inline: auto;
+    }
+    
+    .Alumni_img {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .number_content ul {
+        flex-wrap: wrap;
+        gap: 60px 0;
+        max-width: 500px;
+    }
+    
+    .reg-img i img {
+        max-width: 281px;
+    }
+    
+    .reg-img .circle-text {
+        max-width: 100px;
+        top: 130px;
+        left: -3px;
+    }
+    
+    .reg-img {
+        width: max-content;
+        margin: auto;
+    }
+    
+    .footer_nav {
+        padding: 0;
+        border: none;
+        max-width: 500px;
+        margin-inline: auto;
+    }
+
+.footer_nav ul.social {
+    justify-content: center;
+}
+    
+    .footer_left {
+        max-width: 500px;
+        margin-inline: auto;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    
+    .footer_main_nav ul li {
+        flex: 0 0 50%;
+    }
+    
+    .fb_logo {
+        text-align: center;
+    }
+    
+    .fb_right {
+        text-align: center;
+    }
+    
+    .fb_nav {
+        margin: 25px 0;
+    }
+    
+    .footer_btm {
+        padding: 30px 0;
+    }
+
+.src_wrp button {
+    font-size: 25px;
+    right: 30px;
+}
+
+.fixed_top {
+    right: 25px;
+    bottom: 25px;
+}
+    .svc_top ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .event_blk {
+        flex-direction: column;
+        max-width: 320px;
+        margin-inline: auto;
+    }
+    
+    .event_blk>div {
+        margin: 20px 0;
+    }
+    
+    .footer-logo {
+        width: 100%;
+        overflow: hidden;
+    }
+
+a.footer-logo img {
+    max-width: 95%;
+}
+    
+    .fb_nav ul {
+        gap: 15px 30px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Hs_content_blk p {
+        font-size: 15px;
+    }
+    
+    .event_content a.thm_btn {
+        margin-inline: auto;
+        margin: auto !important;
+        display: block;
+        padding-top: 5px;
+    }
+    
+    a.parson {
+        margin-bottom: 15px;
+    }
+    
+    .timeline-area {
+        padding-bottom: 60px;
+    }
+
+.team_content {
+    margin-bottom: -0;
+}
+    body{
+        font-size: 15px;
+    }
+    .header_top {
+        padding: 5px 0;
+    }
+    
+    
+    footer.footer-area>.container.md {
+        padding: 50px 20px 30px;
+    }
+    .about_content{
+    margin-bottom: 30px;
+}
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
+                     

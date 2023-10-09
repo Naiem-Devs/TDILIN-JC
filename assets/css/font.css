@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-Black.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-BlackItalic.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-Bold.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-BoldItalic.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MetaSerifPro-Book';
+    src: url('../font-family/MetaSerifPro-Book.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro-BookItalic';
+    src: url('../font-family/MetaSerifPro-BookItalic.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-BookItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-Light.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('../font-family/MetaSerifPro-LightItalic.woff2') format('woff2'),
+        url('../font-family/MetaSerifPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
